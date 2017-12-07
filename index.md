@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Noz
+Noz è un videogioco scritto in HTML5 con
 
-You can use the [editor on GitHub](https://github.com/dj-tech/noz-home/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+-Una comunità (HubFIX)
+-Un sistema di farming (Creative Farm)
+-Un boss di fine livello (DEEP Magic)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## HubFix
 
-### Markdown
+HubFIX è una comunità/club/gruppo/... con cui si gioca.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Per giocare a Noz (con il resto del HUbFIX conneso):
+(https://dj-tech.github.io)[Esegui la 'Join&Play']
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### CReative farm
+Creative fram è un sistema per gestire scambi e ottenere terreno,soldi e prodotti
 
-- Bulleted
-- List
+### DEEP Magic
+Deep magic ha un sistema con (https://it.wikipedia.org/wiki/Intelligenza_artificiale)[IA] per gestire FORCE ATTACK e SIMPLE ATTACK.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dj-tech/noz-home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
